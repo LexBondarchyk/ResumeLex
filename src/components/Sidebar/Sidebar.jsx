@@ -40,7 +40,7 @@ function Sidebar({ contacts, techSkills, softSkills }) {
       </div>
 
       <div className={s.section}>
-        <a className={s.link} src="../../assets/SV.pdf" href={sv} target="_blank" rel="noreferrer">
+        <a className={s.link}  href={sv} target="_blank" rel="noreferrer">
           Download CV
         </a>
       </div>
