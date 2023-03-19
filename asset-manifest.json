@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ResumeLex/static/css/main.59b4e1c8.css",
-    "main.js": "/ResumeLex/static/js/main.fd20ff31.js",
+    "main.js": "/ResumeLex/static/js/main.bd37ba83.js",
     "static/media/SV.pdf": "/ResumeLex/static/media/SV.997dc6a4c7b4686c042d.pdf",
     "static/media/photo.jpg": "/ResumeLex/static/media/photo.1bc0d64f19488b7ee45e.jpg",
     "index.html": "/ResumeLex/index.html",
     "main.59b4e1c8.css.map": "/ResumeLex/static/css/main.59b4e1c8.css.map",
-    "main.fd20ff31.js.map": "/ResumeLex/static/js/main.fd20ff31.js.map"
+    "main.bd37ba83.js.map": "/ResumeLex/static/js/main.bd37ba83.js.map"
   },
   "entrypoints": [
     "static/css/main.59b4e1c8.css",
-    "static/js/main.fd20ff31.js"
+    "static/js/main.bd37ba83.js"
   ]
 }
