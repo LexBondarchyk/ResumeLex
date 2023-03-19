@@ -1,0 +1,32 @@
+[
+  {
+    "id": "id-1",
+    "link": "tel:380631923075",
+    "text": "+38 063 192 30 75"
+  },
+  {
+    "id": "id-2",
+    "link": "qwerty",
+    "text": "qwerty"
+  },
+  {
+    "id": "id-3",
+    "link": "app",
+    "text": "Portfolio"
+  },
+  {
+    "id": "id-4",
+    "link": "https://github.com/LexBondarchyk",
+    "text": "GitHub"
+  },
+  {
+    "id": "id-5",
+    "link": "https://www.linkedin.com/in/oleksandr-bondarchyck-744029267",
+    "text": "LinkedIn"
+  },
+  {
+    "id": "id-6",
+    "link": "https://t.me/greedST",
+    "text": "Telegram"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "id-1",
+    "label": "Web Studio",
+    "link": "https://lexbondarchyk.github.io/goit-markup-hw-08/",
+    "tech": "HTML5, Sass"
+  },
+  {
+    "id": "id-2",
+    "label": "Image Finder",
+    "link": "https://lexbondarchyk.github.io/goit-react-hw-04-images/",
+    "tech": "React.js"
+  },
+  {
+    "id": "id-3",
+    "label": "Movies",
+    "link": "https://lexbondarchyk.github.io/goit-react-hw-04-phonebook/",
+    "tech": "React.js"
+  },
+  {
+    "id": "id-4",
+    "label": "Phonebook",
+    "link": "https://lexbondarchyk.github.io/goit-react-hw-08-phonebook/",
+    "tech": "React.js, Redux"
+  }
+]

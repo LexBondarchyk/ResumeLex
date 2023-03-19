@@ -1,0 +1,14 @@
+[
+  {
+    "id": "id-1",
+    "label": "Filmoteka",
+    "link": "https://lexbondarchyk.github.io/film6/",
+    "tech": "HTML5, Sass, JavaScript"
+  },
+  {
+    "id": "id-2",
+    "label": "ice-cream",
+    "link": "https://lexbondarchyk.github.io/ice-cream/",
+    "tech": "React.js, Redux, Node.js"
+  }
+]

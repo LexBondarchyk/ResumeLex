@@ -1,0 +1,27 @@
+[
+  {
+    "id": "id-4",
+    "profession": "Student Full Stack Developer",
+    "company": "GOIT",
+    "time": "August 2022 - Present",
+    "country": "Ukraine",
+    "duties": [
+      {
+        "id": "1",
+        "duty": "Teamwork experience."
+      },
+      {
+        "id": "2",
+        "duty": "Experience with code versioning tools (such as Git)."
+      },
+      {
+        "id": "3",
+        "duty": "Experience in web application development using React.js, Typescript."
+      },
+      {
+        "id": "5",
+        "duty": "The layout of the web pages with clean cross-browser valid code using Figma."
+      }
+    ]
+  }
+]

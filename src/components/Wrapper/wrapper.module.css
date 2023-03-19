@@ -1,0 +1,15 @@
+.wrapper {
+  display: flex;
+	margin: 0 auto;
+  max-width: 1200px;
+	border: 1px solid #939393;
+	border-radius: 2px;
+	box-shadow: 0 0 10px rgba(12, 3, 25, 0.8);
+}
+
+
+
+
+
+
+
