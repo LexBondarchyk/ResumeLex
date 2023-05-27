@@ -12,13 +12,7 @@
     "tech": "React.js"
   },
   {
-    "id": "id-3",
-    "label": "Movies",
-    "link": "https://lexbondarchyk.github.io/goit-react-hw-04-phonebook/",
-    "tech": "React.js"
-  },
-  {
-    "id": "id-4",
+    "id": "id-",
     "label": "Phonebook",
     "link": "https://lexbondarchyk.github.io/goit-react-hw-08-phonebook/",
     "tech": "React.js, Redux"

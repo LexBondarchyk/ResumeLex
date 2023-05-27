@@ -1,14 +1,26 @@
 [
   {
     "id": "id-1",
-    "label": "Filmoteka",
-    "link": "https://lexbondarchyk.github.io/film6/",
+    "label": "WebStudio",
+    "link": "https://lexbondarchyk.github.io/goit-markup-hw-08/",
     "tech": "HTML5, Sass, JavaScript"
   },
   {
     "id": "id-2",
+    "label": "Filmoteka",
+    "link": "https://lexbondarchyk.github.io/Filmoteka/",
+    "tech": "HTML5, Sass, JavaScript"
+  },
+  {
+    "id": "id-3",
     "label": "ice-cream",
     "link": "https://lexbondarchyk.github.io/ice-cream/",
     "tech": "React.js, Redux, Node.js"
-  }
+  },
+    {
+      "id": "id-4",
+      "label": "Your-Pet",
+      "link": "https://pet-project-frond-end-435.vercel.app/",
+      "tech": "React.js, Redux, Node.js"
+    }
 ]
