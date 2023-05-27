@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ResumeLex/static/css/main.59b4e1c8.css",
-    "main.js": "/ResumeLex/static/js/main.bd37ba83.js",
-    "static/media/SV.pdf": "/ResumeLex/static/media/SV.997dc6a4c7b4686c042d.pdf",
+    "main.css": "/ResumeLex/static/css/main.9d015c4f.css",
+    "main.js": "/ResumeLex/static/js/main.9f68d27c.js",
+    "static/media/SV.pdf": "/ResumeLex/static/media/SV.afa8c6ab9d2423dff367.pdf",
     "static/media/photo.jpg": "/ResumeLex/static/media/photo.1bc0d64f19488b7ee45e.jpg",
     "index.html": "/ResumeLex/index.html",
-    "main.59b4e1c8.css.map": "/ResumeLex/static/css/main.59b4e1c8.css.map",
-    "main.bd37ba83.js.map": "/ResumeLex/static/js/main.bd37ba83.js.map"
+    "main.9d015c4f.css.map": "/ResumeLex/static/css/main.9d015c4f.css.map",
+    "main.9f68d27c.js.map": "/ResumeLex/static/js/main.9f68d27c.js.map"
   },
   "entrypoints": [
-    "static/css/main.59b4e1c8.css",
-    "static/js/main.bd37ba83.js"
+    "static/css/main.9d015c4f.css",
+    "static/js/main.9f68d27c.js"
   ]
 }
